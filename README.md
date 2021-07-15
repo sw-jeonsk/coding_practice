@@ -1,5 +1,8 @@
-# programmars
+# programmers
 
 
-- conda
-  - conda activate programmars
+- python virtual environment activate
+  - conda activate programmers
+
+- python virtual environment deactivate
+  - conda deactivate 
