@@ -1,5 +1,6 @@
 import collections
 
+
 def my_solution(participant, completion):
     completion.sort()
     participant.sort()
@@ -8,8 +9,6 @@ def my_solution(participant, completion):
             return a
 
     return participant[len(participant)-1]
-
-
 
 
 def solution(participant, completion):
